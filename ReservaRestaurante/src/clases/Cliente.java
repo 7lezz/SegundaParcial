@@ -6,7 +6,7 @@
 package clases;
 
 /**
- *
+ 
  * @author Lizz
  */
 public class Cliente {
